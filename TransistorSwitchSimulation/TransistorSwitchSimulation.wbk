@@ -1,4 +1,5 @@
+version 2
 1
 9
-.tran 1u 1m{return}{return}
+.tran 1u 1m{return}{return}{return}.kicad adjustpaths{return}.save all{return}.probe alli
 0
